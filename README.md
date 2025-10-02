@@ -4,8 +4,8 @@
 ## Как да се свържете с нас?
 
 ### хон. асистент Красимир Дяков
-Discord - bat_krasyo
-Email - krasimirdyakov29@gmail.com
+Discord - bat_krasyo  
+Email - krasimirdyakov29@gmail.com  
 Facebook/Messenger - Красимир Дяков
 
 ### хон. асистент Мартин Маринов
