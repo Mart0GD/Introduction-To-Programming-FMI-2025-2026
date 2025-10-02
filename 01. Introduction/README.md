@@ -29,3 +29,23 @@
 - [VS Code (Linux)](https://code.visualstudio.com/docs/cpp/config-linux)  
 - [Code::Blocks](https://codeforwin.org/c-programming/create-compile-run-c-program-using-codeblocks)  
 
+## Компилатор в C/C++
+
+### Какво е компилатор?
+
+Когато използваме **C/C++**, имаме няколко основни варианта за компилатори:  
+- **GCC** (GNU Compiler Collection) – най-често използван в Linux и macOS.  
+- **Clang** – бърз и модерен компилатор, често използван в macOS.  
+- **MSVC** (Microsoft Visual C++) – стандартният компилатор за Windows (част от Visual Studio).  
+
+Работата на компилатора е да вземе вече процесирания код и да го преведе първо на **assembly**, а след това в **машинен код**, който може да бъде прочетен и изпълнен от нашия процесор.  
+
+---
+
+### Компилиране на ръка
+
+Ако искате да компилирате кода си **директно от терминала** (защото можем, не за друго (;), можете да го направите така:
+
+```bash
+gcc <source_file.c> -o <output_executable> -Wall -pedantic
+./<output_executable>.exe
