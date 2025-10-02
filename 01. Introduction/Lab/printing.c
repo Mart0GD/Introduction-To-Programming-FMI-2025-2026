@@ -1,14 +1,14 @@
 /*
-* библиотеката за стандартен вход/изход
-* за момента се абстрахирайте от нея, тя е магия, която ни дава функционалност да принтираме и четем от конзолата
+* header file for standard input/output
+* for now, abstract away from it, it's magic that gives us the functionality to print and read from the console
 */
 #include <stdio.h> 
 
 
-// Входна точка на нашата конзолна програма 
+// Entry point of our console program 
 int main() {
 
-    // така принтираме на конзолата
+    // this is how we print to the console
     printf("Hello world!");
     return 0;
 }

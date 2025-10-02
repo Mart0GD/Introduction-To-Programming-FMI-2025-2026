@@ -1,30 +1,30 @@
 // Introduction to built-in types in C
 
-// This is the main() function and this will be the entry point of our program
 int main()
 {
     // Primitive types in C, sizes depend on the architecture (usually 32 or 64 bits)
     // integer types
-    short x = 5; // usually 2 bytes, [-32,768 ; 32,767]
-    int y = 10; // usually 4 bytes, [-2,147,483,648 ; 2,147,483,647]     
-    long z = 100000; // usually 8 bytes, [-9,223,372,036,854,775,808 ; 9,223,372,036,854,775,807]
+    short x = 5;                    // usually 2 bytes, [-32,768 ; 32,767]
+    int y = 10;                     // usually 4 bytes, [-2,147,483,648 ; 2,147,483,647]     
+    long z = 100000;                // usually 8 bytes, [-9,223,372,036,854,775,808 ; 9,223,372,036,854,775,807]
 
     // unsigned integer types
-    unsigned short ux = 5; // usually 2 bytes, [0 ; 65,535]
-    unsigned int uy = 10; // usually 4 bytes, [0 ; 4,294,967,295]
-    unsigned long uz = 100000; // usually 8 bytes, [0 ; 18,446,744,073,709,551,615]
+    unsigned short ux = 5;          // usually 2 bytes, [0 ; 65,535]
+    unsigned int uy = 10;           // usually 4 bytes, [0 ; 4,294,967,295]
+    unsigned long uz = 100000;      // usually 8 bytes, [0 ; 18,446,744,073,709,551,615]
 
     // floating point types
-    float f = 5.5f; // usually 4 bytes, 6 decimal places
-    double d = 10.99; // usually 8 bytes, 15 decimal places
-    long double ld = -100.9999; // usually 16 bytes, 18 decimal places
+    float f = 5.5f;                 // usually 4 bytes, 6 decimal places
+    double d = 10.99;               // usually 8 bytes, 15 decimal places
+    long double ld = -100.9999;     // usually 16 bytes, 18 decimal places
 
     // character type
-    char c = 'A';           // usually 1 byte, [-128 ; 127] 
-    unsigned char uc = 'A'; //or [0 ; 255] if unsigned
+    char c = 'A';                   // usually 1 byte, [-128 ; 127] 
+    unsigned char uc = 'A';         //or [0 ; 255] if unsigned
 
     //no boolean type up until C99 and later
-
+    int false = 0;                  // false
+    int true  = 1;                  // everything apart 0 
  
     // Syntax: <type> <variable_name> = <value>;
     // Declaration vs Definition/ Initialization of variables
