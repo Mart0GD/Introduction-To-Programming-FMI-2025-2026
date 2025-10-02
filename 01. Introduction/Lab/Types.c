@@ -26,7 +26,30 @@
 *   --------------
 */
 
-int main(){
+
+int main() {
+    // Integer types
+    char symbol = 'v';                          
+    short short_integer = 10;               
+    signed integer = 10000;                 
+    long long_integer = -100000;            
+    long long very_long_integer = 10000000; 
+
+    // Unsigned Integer types (same sizes as the signed one, the difference is in the range)
+    unsigned char u_symbol;
+    unsigned int u_integer;
+    unsigned short u_short_integer;
+    unsigned long u_long_integer;
+    unsigned long long u_very_long_integer;
+
+    // Floating Point 
+    float single_precision_real = 3.14;
+    double double_precision_real = 3.141592;
+    long double long_double_precision_real = 3.1415926535;
+
+    // no boolean type like other languages
+    int false = 0;  // false
+    int true  = 1;  // everything apart 0 
 
     return 0;
 }
