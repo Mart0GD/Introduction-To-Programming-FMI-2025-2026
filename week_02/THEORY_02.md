@@ -32,6 +32,9 @@
 ## Приоритет и асоциативност на операциите в C
 <img width="763" height="842" alt="image" src="https://github.com/user-attachments/assets/41232dad-8412-4233-81a2-0a03d1a15f90" />
 
+## Връзки за ресурси
+https://en.cppreference.com/w/c/language/operator_precedence.html
+
 
 
 
