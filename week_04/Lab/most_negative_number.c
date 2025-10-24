@@ -1,11 +1,5 @@
 #include "stdio.h"
-/*
-Operation	    Typical cost	
-+, -, &,|,^	    ~1 cycle
-<<, >>	        ~1–3 cycles	
-*	            ~3 cycles	
-/, %	        10–40 cycles
-*/
+
 int main(){
 
     short most_negative_number = 0b1000000000000000;
