@@ -90,3 +90,13 @@ int main(void) {
     putchar('\n');
     return 0;
 }
+
+/*
+Why bitwise operators are fast??
+
+Operation	    Typical cost (in CPU cycles)
++, -, &,|,^	    ~1 cycle
+<<, >>	        ~1–3 cycles	
+*	            ~3 cycles	
+/, %	        10–40 cycles
+*/
