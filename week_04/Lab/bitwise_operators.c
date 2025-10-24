@@ -35,6 +35,7 @@ int main(void) {
 
     /*
         ** Operator priority **
+        ~
         << >>
         &      (bitwise AND)
         ^      (bitwise XOR)
