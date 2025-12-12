@@ -27,8 +27,8 @@ Facebook/Messenger - Marty Marinov
 | **21.11.2024** | [Тема 8](https://github.com/Mart0GD/Introduction-To-Programming-FMI-2025-2026/tree/main/week_08) |
 | **28.11.2024** | [Тема 9](https://github.com/Mart0GD/Introduction-To-Programming-FMI-2025-2026/tree/main/week_09) |
 | **28.11.2024** | Контролно 1 |
-| **05.12.2024** | Тема 10 |
-| **12.12.2024** | Тема 11 |
+| **05.12.2024** | [Тема 10](https://github.com/Mart0GD/Introduction-To-Programming-FMI-2025-2026/tree/main/week_10) |
+| **12.12.2024** | [Тема 11](https://github.com/Mart0GD/Introduction-To-Programming-FMI-2025-2026/tree/main/week_11) |
 | **19.12.2024** | Тема 12 |
 | **Ваканция**   | Почивка |
 | **09.01.2025** | Тема 13 |
