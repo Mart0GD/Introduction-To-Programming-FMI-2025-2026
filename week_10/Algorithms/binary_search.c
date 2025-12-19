@@ -6,7 +6,7 @@ int binary_search(const int arr[], int size, int desired){
     int r = size - 1;
     int mid;
 
-    while (l < r)
+    while (l <= r)
     {
         mid = (r - l) / 2 + l;
 
