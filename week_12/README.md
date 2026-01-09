@@ -1,9 +1,4 @@
 ## Символни низове. Още за указателите и паметта. Стандартни функции за работа със символни низове.  
 
-<<<<<<< HEAD
-[Lab]()  
-[Problems]()
-=======
-[Lab]()
-[Problems]()
->>>>>>> 9e157dd73b4dd13fadd636ff8a1649c2f809c53e
+[Lab](https://github.com/Mart0GD/Introduction-To-Programming-FMI-2025-2026/tree/main/week_12/Lab)  
+[Problems](https://github.com/Mart0GD/Introduction-To-Programming-FMI-2025-2026/blob/main/week_12/problems.md)
